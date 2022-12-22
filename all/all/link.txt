@@ -1,0 +1,28 @@
+https://www.campuslife.co.in/Html/registration-page-with-validation.php
+registration
+
+
+
+react app
+npx create-react-app react-demo --use-npm 
+
+npm start
+
+
+
+angular
+ng new angular-project name-
+
+ng serve
+
+
+
+
+
+
+
+
+
+
+
+
